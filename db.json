@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "22d0cccb-ada2-45fb-8eed-ee25a28ff9af",
+      "title": "Hello",
+      "status": false
+    },
+    {
+      "id": "d0471b62-479e-4d32-a229-e9a9aae76670",
+      "title": "Done",
+      "status": false
+    },
+    {
+      "id": "a24b0fdc-6ec8-4837-8007-229c93e15e9e",
+      "title": "hello",
+      "status": true
+    }
+  ]
+}
